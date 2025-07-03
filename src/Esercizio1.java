@@ -16,6 +16,7 @@ public class Esercizio1 {
         for (int i = 0; i <= fineTabellina; i++) {
             int risultato = numero * i;
             System.out.println(numero + "X" + i + "=" + risultato);
+            
         } 
 
 
